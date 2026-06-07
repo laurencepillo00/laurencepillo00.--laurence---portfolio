@@ -21,13 +21,13 @@ Installed and configured CCTV cameras, DVR/NVR systems, and remote viewing.
 🖥️ Computer Repair
 Diagnosed and repaired computer hardware and software issues.
 
-#### 🌐 Network Setup
+🌐 Network Setup
 Configured routers, internet connections, and local networks.
 
-### Education
+Education
 Bachelor of Science in Information Systems
 Davao del Norte State College
 
-### Contact
+Contact
 - Email: laurencepillo00@gmail.com
-- LinkedIn: linkedin.com/in/laurence-pillo-6083ba40b
+- GitHub: github.com/laurencepillo00/laurencepillo00.--laurence---portfolio
